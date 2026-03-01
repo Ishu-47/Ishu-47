@@ -24,7 +24,7 @@
 </p>
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
-  <a href="https://www.codechef.com/users/goat91" target="_blank">
+  <a href="https://www.codechef.com/users/keen_gale_94" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
   </a>
   <a href="https://codeforces.com/profile/ishurajora_23" target="_blank">
