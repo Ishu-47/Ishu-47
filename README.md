@@ -11,7 +11,7 @@
 </p>
 <h2 align="center">Database</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 <h2 align="center">Integrated Development Environments</h2>
 <p align="center"> 
