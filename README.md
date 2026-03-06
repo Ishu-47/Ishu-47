@@ -39,8 +39,7 @@
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
   <a  href = "https://www.linkedin.com/in/ishu-kumar-rajora-65074b2a9/" target = "_blank"> 
-    <img src="https://img.shi
-      elds.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "ishu-kumar-rajora" />
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "ishu-kumar-rajora" />
   </a>
   <a href = "mailto:kumarrajoraishu@gmail.com" target = "_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "kumarrajoraishu" />
