@@ -115,7 +115,7 @@
 - 🏅 **LeetCode:** Knight | Max Rating: 2088 | Top 1.8% | Global Rank 254 in BiWeekly Contest 180.
 - 🏅 **CodeChef:** 4-Star | Max Rating: 1871 | Global Rank 3935.
 - 🏆 **ICPC:** Chennai Regionalist 2025, representing IET Lucknow.
-- 💡 **Problem Solving:** 2900+ DSA problems solved.
+- 💡 **Problem Solving:** 3000+ DSA problems solved.
 - 🌟 **AtCoder:** 5 Kyu | Rating: 1140.
 
 ---
